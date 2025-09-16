@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio66.vercel.app/](https://my-portfolio66.vercel.app/)
 
-//- 📫 How to reach me **mansikumari21980@gmial.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
